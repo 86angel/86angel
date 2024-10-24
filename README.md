@@ -47,7 +47,10 @@
 
 ## Descarga mi Resume
 
-[![Descargar Resume](https://img.shields.io/badge/Download-Resume-brightgreen?style=for-the-badge)](./resume.pdf)
+## Descarga mi Resume
+
+[![Descargar Resume](https://img.shields.io/badge/Download-Resume-brightgreen?style=for-the-badge)](https://github.com/86angel/86angel/blob/main/QA%20Engineer_%20Angel%20Z%C3%BA%C3%B1iga.pdf)
+
 
 ## Contacto
 
