@@ -45,7 +45,6 @@
 - **CCNA Routing and Switching** – Cisco
 - **EF SET Certificate C1+**
 
-## Descarga mi Resume
 
 ## Descarga mi Resume
 
