@@ -1,34 +1,61 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Portafolio de Luis Angel Rentería Zúñiga
 
-## Getting Started
+¡Hola! Soy Luis Angel Rentería Zúñiga, un **QA Tester Manual** con más de 2 años de experiencia en el proceso de pruebas que aseguran la calidad del software, además de contar con conocimientos a nivel elemental en **testing automático**. Este repositorio destaca algunos de mis proyectos y habilidades clave, así como la experiencia adquirida en diferentes industrias y plataformas.
 
-First, run the development server:
+## Herramientas y Tecnologías
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+- **Postman**: Pruebas de APIs y validación de respuestas.
+- **Selenium**: Automatización de pruebas para validar la funcionalidad en diferentes navegadores.
+- **SQL**: Consultas y validación de datos en bases de datos.
+- **JIRA & ClickUp**: Gestión de proyectos, seguimiento de bugs y tareas.
+- **Figma & AdobeXD**: Diseño UX/UI y colaboración con equipos de diseño.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Experiencia Profesional
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+### QA Manager – Mints.Cloud (Noviembre 2022 - 2024)
+- Participé en la creación y desarrollo de la plataforma **Mints.ly** utilizando códigos QR.
+- Implementé pruebas manuales y automáticas para empresas de renombre como **Telemundo**, **Disney**, **McDonald’s**, **Grisi**, **Italika**, entre otras.
+- Creé documentación para la mejora de procesos, asegurando la correcta comunicación entre desarrolladores y diseñadores.
+- Desempeñé brevemente el rol de Project Manager, coordinando implementaciones para diversos clientes.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+### Proyectos Académicos
+- **Seguimiento de objetos en tiempo real con IoT**: Desarrollo de una plataforma de seguridad que permite rastrear objetos de alto valor.
+- **Plataforma de cursos online de dibujo académico**: Creación de una plataforma educativa enfocada en el dibujo académico profesional.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Formación Académica
 
-## Learn More
+- **Técnico Superior Universitario en Tecnologías de la Información** (2022) – Universidad Tecnológica de Ciudad Juárez.
+- **Ingeniería en Desarrollo y Gestión de Software**.
+- **Bootcamp en Quality Assurance** (Octubre 2024) – TripleTen Services.
 
-To learn more about Next.js, take a look at the following resources:
+## Habilidades Técnicas
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- QA manual
+- SQL
+- Selenium
+- Figma
+- ClickUp
+- Jira
+- Adobe Photoshop
+- Inglés (Avanzado - C1+)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Certificaciones
 
-## Deploy on Vercel
+- **BULATS Certificate** – Cambridge
+- **CCNA Routing and Switching** – Cisco
+- **EF SET Certificate C1+**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Descarga mi Resume
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[![Descargar Resume](https://img.shields.io/badge/Download-Resume-brightgreen?style=for-the-badge)](./resume.pdf)
+
+## Contacto
+
+- **Teléfono**: +52 (656) 100 7975
+- **Email**: 86angel.zz@gmail.com
+- **LinkedIn**: [linkedin.com/in/angel-zúñiga86](https://www.linkedin.com/in/angel-zúñiga86)
+- **GitHub**: [github.com/86angel](https://github.com/86angel)
+
+---
+
+Gracias por visitar mi portafolio. Si tienes algún proyecto o colaboración en mente, no dudes en contactarme.
