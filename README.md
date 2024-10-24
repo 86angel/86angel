@@ -1,4 +1,4 @@
-# 💼 Portafolio de Luis Angel Rentería Zúñiga
+# 💼 Portafolio de Angel Zúñiga
 
 ¡Hola! Soy Luis Angel Rentería Zúñiga, un **QA Tester Manual** con más de 2 años de experiencia en el proceso de pruebas que aseguran la calidad del software, además de contar con conocimientos a nivel elemental en **testing automático**. Este repositorio destaca algunos de mis proyectos y habilidades clave, así como la experiencia adquirida en diferentes industrias y plataformas.
 
