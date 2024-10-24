@@ -1,4 +1,4 @@
-# ![Banner]([https://via.placeholder.comAqui/1200x400?text=Tu+Imagen+Chida+](https://www.pngegg.com/en/png-ydcom)
+# ![Banner]([https://via.placeholder.comAqui/1200x400?text=Tu+Imagen+Chida+](https://www.pngegg.com/en/png-ydcom))
 
 # 💼 Portafolio de Luis Angel Rentería Zúñiga
 
