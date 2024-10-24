@@ -52,7 +52,6 @@
 [![Descargar Resume](https://img.shields.io/badge/Descargar%20CV-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/86angel/86angel/blob/main/QA%20Engineer_%20Angel%20Z%C3%BA%C3%B1iga.pdf)
 
 
-## Contacto
 
 ## Contacto
 
