@@ -44,6 +44,7 @@
 - **BULATS Certificate** – Cambridge
 - **CCNA Routing and Switching** – Cisco
 - **EF SET Certificate C1+**
+- **Bootcamp QA Engineering por TripleTen**
 
 
 ## Descarga mi Resume
