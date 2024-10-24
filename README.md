@@ -26,7 +26,7 @@
 - 🗂️ ClickUp
 - 📝 Jira
 - 📷 Adobe Photoshop
-- 🇬🇧 Inglés (Avanzado - C1+)
+- ✅ Inglés (Avanzado - C1+)
 
 ## 🏅 Certificaciones
 
