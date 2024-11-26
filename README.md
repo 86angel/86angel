@@ -41,7 +41,7 @@
 
 ## 📞 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-z%C3%BA%C3%B1iga86)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/angel-zúñiga-qa)
 
 
 - 📱 **Teléfono**: +52 (656) 100 7975
